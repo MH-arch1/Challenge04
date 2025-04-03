@@ -1,0 +1,5 @@
+first = int(input("Enter first number: "))
+second = int(input("Enter second number: "))
+my_tuple = (first, second)
+mytuple = (second, first)
+print("Swapped Values: ", mytuple)
