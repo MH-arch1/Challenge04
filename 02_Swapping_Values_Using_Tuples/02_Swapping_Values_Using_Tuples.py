@@ -1,5 +1,6 @@
 first = int(input("Enter first number: "))
 second = int(input("Enter second number: "))
 my_tuple = (first, second)
+print("Your values in order are: ", my_tuple)
 mytuple = (second, first)
-print("Swapped Values: ", mytuple)
+print("Swapped Values are: ", mytuple)
